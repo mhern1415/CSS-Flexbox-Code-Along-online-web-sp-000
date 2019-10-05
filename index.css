@@ -18,8 +18,7 @@ header {
 }
 
 main {
-  flex-direction: column;
-  flex-wrap: wrap;
+  flex-flow: column wrap;
   display: flex;
   background-color: #92C9D5;
   width: 100%;
