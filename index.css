@@ -20,7 +20,7 @@ header {
 main {
   justify-content: center; 
   flex-flow: column wrap;
-  align-items: center;
+  align-items: stretch;
   display: flex;
   background-color: #92C9D5;
   width: 100%;
