@@ -34,6 +34,10 @@ main {
   background-color: #FCF2EC;
 }
 
+.setWidth {
+  flex-basis: 100px;
+  flex-grow: 1;
+}
 
 footer {
   background-color: #DAEEEF;
